@@ -171,6 +171,14 @@ iPad16,3 : iPad Pro 11 inch 5th Gen (WiFi)
 iPad16,4 : iPad Pro 11 inch 5th Gen (WiFi+Cellular)
 iPad16,5 : iPad Pro 12.9 inch 7th Gen (WiFi)
 iPad16,6 : iPad Pro 12.9 inch 7th Gen (WiFi+Cellular)
+iPad16,8 : iPad Air 11" M4 (Wi-Fi)
+iPad16,9 : iPad Air 11" M4 (Wi-Fi+Cell)
+iPad16,10 : iPad Air 13" M4 (Wi-Fi)
+iPad16,11 : iPad Air 13" M4 (Wi-Fi+Cell)
+iPad17,1 : iPad Pro 11" M5 (Wi-Fi)
+iPad17,2 : iPad Pro 11" M5 (Wi-Fi+Cell)
+iPad17,3 : iPad Pro 13" M5 (Wi-Fi)
+iPad17,4 : iPad Pro 13" M5 (Wi-Fi+Cell)
 
 Watch1,1 : Apple Watch 38mm case
 Watch1,2 : Apple Watch 42mm case
